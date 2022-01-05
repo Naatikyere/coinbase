@@ -1,2 +1,0 @@
-# coinbase
-cloning coinbase
