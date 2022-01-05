@@ -1,0 +1,5 @@
+Hi,
+ And welcome 
+ the cloning of the the base website is the first of my personal projects assigned to me
+ by my Mentor(Master Casprine) in my goals to become a good Web-dev and a great font-end dev.
+ It isnt prefect yet but but at least I get to have some field experience.
